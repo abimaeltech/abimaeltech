@@ -66,3 +66,5 @@
 
 ```bash
 JavaScript | TypeScript | Python | React | Node.js | Next.js | Express | Flask | TensorFlow | PyTorch | PostgreSQL | Docker
+
+![snake gif](https://github.com/abimaeltech/abimaeltech/blob/output/github-contribution-grid-snake.svg)
