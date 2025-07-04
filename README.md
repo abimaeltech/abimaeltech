@@ -2,8 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=Abimael%20Silva&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 </div>
 
-## 📊 **GitHub Performance Dashboard**
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
 </div>
@@ -60,7 +58,6 @@
 
 ### 🎯 **Minha Jornada**
 
-**Interface Desenvolvedor:**
 ```typescript
 interface Desenvolvedor {
   nome: "Abimael Silva";
@@ -102,7 +99,6 @@ class EmpreendedorTech extends Desenvolvedor {
 
 ### ⚡ **Status Atual**
 
-**Configuração do Sistema:**
 ```json
 {
   "🚀 desenvolvendo": [
@@ -200,7 +196,6 @@ class EmpreendedorTech extends Desenvolvedor {
 
 ### 🎓 **Mentes Inovadoras Platform**
 
-**Especificações Técnicas:**
 ```yaml
 categoria: Revolutionary EdTech
 stack_principal: React + Node.js + Python + AI
@@ -232,7 +227,6 @@ próximos_passos:
 
 ### 🤖 **AI Learning Assistant**
 
-**Arquitetura Avançada:**
 ```yaml
 categoria: Personalized AI Education
 core_tech: Python + TensorFlow + Transformers
