@@ -67,6 +67,4 @@
 ```bash
 JavaScript | TypeScript | Python | React | Node.js | Next.js | Express | Flask | TensorFlow | PyTorch | PostgreSQL | Docker
 
-### 🐍 Cobrinha de commits animada
 
-![snake gif](https://raw.githubusercontent.com/abimaeltech/abimaeltech/output/github-contribution-grid-snake.svg)
